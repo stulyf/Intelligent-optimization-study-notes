@@ -1,1 +1,1 @@
-"# Intelligent-optimization-study-notes" 
+# Intelligent-optimization-study-notes
